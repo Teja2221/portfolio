@@ -143,7 +143,7 @@ body::before {
 }
 
 .hero-copy p {
-  margin: 2px 0 0;
+  margin: 24px 0 0;
   line-height: 1.85;
   color: var(--text-secondary);
   font-size: 1.05rem;
